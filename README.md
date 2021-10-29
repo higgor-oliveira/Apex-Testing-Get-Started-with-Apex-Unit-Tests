@@ -1,6 +1,7 @@
 VerifyDate.apxc
 
-public class VerifyDate {
+	
+	public class VerifyDate {
 	
 	//method to handle potential checks against two dates
 	public static Date CheckDates(Date date1, Date date2) {
